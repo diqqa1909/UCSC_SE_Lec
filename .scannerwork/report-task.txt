@@ -1,0 +1,6 @@
+projectKey=myProjectSE
+serverUrl=https://78fa-2402-4000-1255-1e32-9c6e-f659-edab-5631.ngrok-free.app
+serverVersion=10.6.0.92116
+dashboardUrl=https://78fa-2402-4000-1255-1e32-9c6e-f659-edab-5631.ngrok-free.app/dashboard?id=myProjectSE
+ceTaskId=480d9eba-625c-4d1c-83d2-787f0d0edc4b
+ceTaskUrl=https://78fa-2402-4000-1255-1e32-9c6e-f659-edab-5631.ngrok-free.app/api/ce/task?id=480d9eba-625c-4d1c-83d2-787f0d0edc4b
